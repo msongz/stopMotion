@@ -1,7 +1,7 @@
 ﻿//quickStopMotion 
 //version 4.0
 //2015 01.03 18:16
-//copyright (c) songz meng 
+//copyright (c) songz meng test again
 
 
 sM_Data = new Object();
