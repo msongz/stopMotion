@@ -6,11 +6,11 @@
 
 
 ### Usage & Installation:
-  - put the jsx to <i class="icon-folder-open"></i> /ae installation folder/support file/script/
+  - put the jsx to :open_file_folder: /ae installation folder/support file/script/
    
   or
 
-  - put the jsx to <i class="icon-folder-open"></i> /ae installation folder/support file/script/ScriptUI Panels/ if you would like it dockable
+  - put the jsx to :open_file_folder: /ae installation folder/support file/script/ScriptUI Panels/ if you would like it dockable
    
   then
 
