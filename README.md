@@ -1,6 +1,10 @@
 
 # Make frozen frames in AE quickly
 
+
+<img src=http://ww1.sinaimg.cn/bmiddle/66e22e28gw1enwlimoietg20c80dwngp.gif></img>
+
+
 ### Usage & Installation:
   - put the jsx to  /ae installation folder/support file/script/
   - put the jsx to  /ae installation folder/support file/script/ScriptUI Panels/ if you would like it dockable
@@ -10,7 +14,3 @@
 
 ### Version
  - 4.0 
-
-<div>
-<img src=http://ww1.sinaimg.cn/bmiddle/66e22e28gw1enwlimoietg20c80dwngp.gif></img>
-</div>
