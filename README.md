@@ -6,13 +6,15 @@
 
 
 ### Usage & Installation:
-  - put the jsx to <i class="icon-folder-open"></i> /ae installation folder/support file/script/
+  - put the jsx to :open_file_folder: /ae installation folder/support file/script/
    
   or
 
-  - put the jsx to <i class="icon-folder-open"></i> /ae installation folder/support file/script/ScriptUI Panels/
+  - put the jsx to :open_file_folder: /ae installation folder/support file/script/ScriptUI Panels/
    
-    if you would like it dockable then
+    if you would like it dockable 
+
+    then
 
   - run it from the <kbd>file</kbd>><kbd>scripts</kbd>><kbd>run script file</kbd> or <kbd>window</kbd>>choose <kbd>stopMotion.jsx</kbd>
 
