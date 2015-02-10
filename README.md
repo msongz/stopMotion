@@ -5,9 +5,9 @@
 
 ### Description
 
-  - localization `for **English** and **Chinese**`
+  - localization `for English and Chinese`
 
-  - any layer `the script should do a precompose with **move all the attributes into new comp and adjust the duration** first after you click on the execute button,so this fine for applying to any layer.` 
+  - any layer `the script should do a precompose with move all the attributes into new comp and adjust the duration first after you click on the execute button,so this fine for applying to any layer.` 
 
   - by seconds `the future will add by frames,sorry of inaccuracy.`
   
