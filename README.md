@@ -11,5 +11,6 @@
 ### Version
  - 4.0 
 
-
-<img>http://ww1.sinaimg.cn/bmiddle/66e22e28gw1enwlimoietg20c80dwngp.gif</img>
+<div>
+<img src=http://ww1.sinaimg.cn/bmiddle/66e22e28gw1enwlimoietg20c80dwngp.gif></img>
+</div>
