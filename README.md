@@ -2,15 +2,15 @@
 # Make **frozen** frames in AE quickly
 
 
-<img src=http://ww1.sinaimg.cn/bmiddle/66e22e28gw1enwlimoietg20c80dwngp.gif></img>
+[![](http://ww1.sinaimg.cn/bmiddle/66e22e28gw1enwlimoietg20c80dwngp.gif)](http://weibo.com/songz)
 
 
 ### Usage & Installation:
-  - put the jsx to :open_file_folder: /ae installation folder/support file/script/
+  - put the jsx to :open_file_folder: `/ae installation folder/support file/script/`
    
   or
 
-  - put the jsx to :open_file_folder: /ae installation folder/support file/script/ScriptUI Panels/
+  - put the jsx to :open_file_folder: `/ae installation folder/support file/script/ScriptUI Panels/`
    
     if you would like it dockable 
 
@@ -23,4 +23,21 @@
 ### Version
  - 4.0 
 
- <i class="icon-cog"></i> 
+
+```sequence
+Alice->Bob: Hello Bob, how are you?
+Note right of Bob: Bob thinks
+Bob-->Alice: I am good thanks!
+```
+
+
+```flow
+st=>start: Start
+e=>end
+op=>operation: My Operation
+cond=>condition: Yes or No?
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+```
